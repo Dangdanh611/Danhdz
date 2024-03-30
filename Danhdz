@@ -9,7 +9,7 @@
 <cơ thể>
     <div class="wrapper">
         <h2 class="question">HoàiAnh có yêu anh Danh không</h2>
-        <h4 class="question-prompt">Nếu em không được chọn là Anh Cuốc em</h4>
+        <h4 class="question-prompt">Nếu em không được chọn là anh ghét bé ấy</h4>
         <img class="gif" alt="gif" src="https://media.giphy.com/media/PcCh9x9Pz5d2CriuMQ/giphy.gif"/>
         <div class="btn-group">
             <button class="yes-btn">Có anh</button>
