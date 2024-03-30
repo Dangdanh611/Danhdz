@@ -11,8 +11,8 @@ YesBtn.addEventListener("click", () => {
     "https://media.giphy.com/media/vvc1dJPLEU2QOw9cXy/giphy.gif";
 
   // Ẩn cả hai nút Có và Không
-  YesBtn.style.display = "không";
-  noBtn.style.display = "không";
+  YesBtn.style.display = "none";
+  noBtn.style.display = "none";
   questionPrompt.style.display = "không"; // Ẩn dòng chữ khi người dùng nhấn vào nút Có
 });
 
