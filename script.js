@@ -13,7 +13,7 @@ YesBtn.addEventListener("click", () => {
   // Ẩn cả hai nút Có và Không
   YesBtn.style.display = "none";
   noBtn.style.display = "none";
-  questionPrompt.style.display = "không"; // Ẩn dòng chữ khi người dùng nhấn vào nút Có
+  questionPrompt.style.display = "none"; // Ẩn dòng chữ khi người dùng nhấn vào nút Có
 });
 
 noBtn.addEventListener("mouseover", () => {
